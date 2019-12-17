@@ -1,5 +1,5 @@
 # Ionic Environment Setup (Windows x64)
-Guides to setup environment for Ionic development.
+Guide to setup environment for Ionic development.
 
 ## Install Git
 ## Install VS Code
